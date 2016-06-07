@@ -1,0 +1,14 @@
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+D:\Apps\GitHub\Demo\WebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
